@@ -1,0 +1,9 @@
+Age,Salary,City,Experience,Purchased
+22.0,25000.0,Jaipur,1,No
+25.0,30000.0,Ahmedabad,2,Yes
+,28000.0,Jaipur,2,No
+29.0,,Delhi,4,Yes
+25.0,30000.0,Ahmedabad,2,Yes
+35.0,50000.0,Delhi,8,Yes
+40.0,60000.0,Jaipur,12,No
+29.0,,Delhi,4,Yes
